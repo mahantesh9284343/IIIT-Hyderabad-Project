@@ -1,0 +1,36 @@
+Broken links :-
+1] src/lab/exp7/objective.html --> Correct
+2] src/lab/exp8/theory.html --> Correct
+3] src/lab/exp1/Introduction.html --> Incorrect(It dislays page not found on clicking symbol)
+4] src/lab/TargetAudience.html --> Correct
+5] src/lab/exp9/Experiment.html --> Correct
+
+Header :- 
+1] src/lab/exp3/Introduction.html --> Correct
+2] src/lab/exp4/Quizzes.html --> Correct
+3] src/lab/Target Audience.html --> Correct
+4] src/lab/Prerequisites.html --> Correct 
+5] src/lab/exp2/Objective.html --> Correct
+6] Manual.html --> Correct
+7] src/lab/MIPS1/Introduction.html --> Correct
+8] src/lab/MIPS2/Experiment.html --> Correct
+
+Foters :- 
+1] src/lab/exp2/Feedback.html --> Correct
+2] src/lab/exp1/Introduction.html --> Correct 
+3] src/lab/exp9/Introduction.html --> Correct
+4] src/lab/exp2/Objective.html --> Correct
+5] src/lab/exp5/Introduction.html --> Correct
+
+Tables :- 
+1] src/lab/exp1/Manual.html --> Correct
+2] src/lab/exp2/Manual.html --> Correct
+3] src/lab/exp4/Manual.html --> Correct
+
+Images :-
+1] src/lab/exp8/Manual.html --> Correct
+2] src/lab/exp6/Manual.html --> Correct
+
+
+
+

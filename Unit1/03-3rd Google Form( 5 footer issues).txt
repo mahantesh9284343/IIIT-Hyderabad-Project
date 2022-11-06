@@ -1,0 +1,21 @@
+1] Artificial Neural Network Lab
+ANN1 --> http://cse22-iiith.vlabs.ac.in/exp1/Objective.html?domain=Computer%20Science&lab=Artificial%20Neural%20Networks
+
+
+2] Hydraulics and Fluid Mechanics Lab
+HFM1 --> http://eerc03-iiith.vlabs.ac.in/exp1/Introduction.html?domain=Civil%20%20%20%20%20%20%20%20%20%20%20%20%20Engineering&lab=Hydraulics%20and%20Fluid%20%20%20%20%20%20%20%20%20%20%20%20%20Mechanics%20Lab 
+
+
+3] Computer Graphics lab
+CG9 --> http://cse18-iiith.vlabs.ac.in/exp9/Introduction.html?domain=Computer%20Science&lab=Computer%20Graphics
+
+
+
+4] Pattern Recognition Lab
+PRL2 --> http://cse20-iiith.vlabs.ac.in/exp2/Introduction.html?domain=Computer%20Science&lab=Pattern%20Recognition%20Lab
+
+
+
+5] Basic Engineering Mechanics and Strength of Material Lab
+EERC10 --> http://eerc01-iiith.vlabs.ac.in/exp10/Introduction.html?domain=Civil%20Engineering&lab=Welcome%20to%20Basic%20Engineering%20Mechanics%20and%20Strength%20of%20Materials%20lab!
+

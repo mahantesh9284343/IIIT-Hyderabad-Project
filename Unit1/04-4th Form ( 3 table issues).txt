@@ -1,0 +1,9 @@
+1] Structural Analysis lab
+BSA2 --> http://bsa-iiith.vlabs.ac.in/exp2/Manual.html?domain=Civil%20Engineering&lab=Structural%20Analysis%20Lab
+
+BSA6 --> http://bsa-iiith.vlabs.ac.in/exp6/Manual.html?domain=Civil%20Engineering&lab=Structural%20Analysis%20Lab
+
+
+2] Soil Mechanics Lab
+
+SMFE4 --> http://smfe-iiith.vlabs.ac.in/exp4/Manual.html?domain=Civil%20Engineering&lab=Soil%20Mechanics%20Lab

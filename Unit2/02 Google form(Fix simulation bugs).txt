@@ -1,0 +1,10 @@
+CSE6_3 --> http://cse02-iiith.vlabs.ac.in/exp6/simulation/SwitchCase/index.html
+
+
+CSE4_1_1 --> http://cse02-iiith.vlabs.ac.in/exp4/simulation/1-D/index.html
+
+
+CSE4_2 --> http://cse02-iiith.vlabs.ac.in/exp4/simulation/2-D/index.html
+ 
+
+CSE2 --> http://cse02-iiith.vlabs.ac.in/exp2/simulation/index.html

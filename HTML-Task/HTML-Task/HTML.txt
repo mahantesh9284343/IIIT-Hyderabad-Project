@@ -1,0 +1,74 @@
+HTML - Hyper Text Markup Language
+
+What is HTML?
+HTML stands for Hyper Text Markup Language
+HTML is the standard markup language for Web pages
+HTML elements are the building blocks of HTML pages
+HTML elements are represented by <> tags
+
+HTML Attributes
+HTML elements can have attributes
+Attributes provide additional information about the element
+Attributes come in name/value pairs like charset="utf-8"
+
+HTML elements are the building blocks of HTML pages.
+The <!DOCTYPE html> declaration defines this document to be HTML5
+The <html> element is the root element of an HTML page
+The lang attribute  defines the language of the document
+The <meta> element contains meta information about the document
+The charset attribute defines the character set used in the document
+The <title> element specifies a title for the document
+The <body> element contains the visible page content
+The <h1> element defines a large heading
+The <p> element defines a paragraph
+
+HTML Documents
+All HTML documents must start with a document type declaration: <!DOCTYPE html>.
+The HTML document itself begins with <html> and ends with </html>.
+The visible part of the HTML document is between <body> and </body>.
+
+HTML Headings
+HTML headings are defined with <h1> to <h6> tags.
+<h1> defines the most important heading. <h6> defines the least important.
+
+HTML Paragraphs
+HTML paragraphs are defined with <p> tags.
+
+HTML Links
+HTML links are defined with <a> tags.
+
+HTML Images
+HTML images are defined with <img> tags.
+The source file (src), alternative text (alt), width, and height are provided as attributes.
+
+HTML Buttons
+HTML buttons are defined with <button> tags.
+
+HTML Lists
+HTML lists are defined with <ul> (unordered/bullet list) or <ol> (ordered/numbered list) tags, followed by <li> tags (list items).
+
+HTML Tables
+An HTML table is defined with a <table> tag.
+Table rows are defined with <tr> tags.
+Table headers are defined with <th> tags. (bold and centered by default).
+Table cells (data) are defined with <td> tags.
+
+Programming HTML
+Every HTML element can have attributes.
+For web development and programming, the most important attributes are id and class. These attributes are often used to address program based web page manipulations.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 

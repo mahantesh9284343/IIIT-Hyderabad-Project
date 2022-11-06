@@ -1,0 +1,22 @@
+1] Structural Analysis Lab
+BSA4 --> http://bsa-iiith.vlabs.ac.in/exp4/Objective.html?domain=Civil%20Engineering&lab=Structural%20Analysis%20Lab
+
+BSA9 --> http://bsa-iiith.vlabs.ac.in/exp9/Experiment.html?domain=Civil%20Engineering&lab=Structural%20Analysis%20Lab
+
+
+2] Circular Dichroism virtual Lab
+CDS_1 --> http://cds-iiith.vlabs.ac.in/Introduction.html?domain=%20Chemical%20Sciences
+
+CDS_4 --> http://cds-iiith.vlabs.ac.in/Pre-Requisite.html?domain=%20Chemical%20Sciences
+
+
+3] Computer System Organisation Lab
+CSO_2 --> http://cse11-iiith.vlabs.ac.in/MIPS1/Introduction.html?domain=Computer%20Science&lab=Computer%20Systems%20Organization%20lab
+
+CSO_3 --> http://cse11-iiith.vlabs.ac.in/MIPS2/Experiment.html?domain=Computer%20Science&lab=CSO%20Lab
+
+
+4] VLSI Lab
+VLSI1_1 --> http://cse14-iiith.vlabs.ac.in/final-build/EXP_1sep2010/exp1/Introduction.html?domain=Computer%20Science%20&%20Engineering&lab=Welcome%20to%20VLSI%20lab!
+
+VLSI_2 --> http://cse14-iiith.vlabs.ac.in/Prerequisites.html?domain=Computer%20Science

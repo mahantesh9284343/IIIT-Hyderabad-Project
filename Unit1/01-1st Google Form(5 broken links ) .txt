@@ -1,0 +1,133 @@
+1] Problem solving lab 
+PS7_1 --> http://ps-iiith.vlabs.ac.in/exp7/Introduction.html?domain=Computer%20Science&lab=Problem%20Solving%20Lab
+
+PS9_1 --> http://ps-iiith.vlabs.ac.in/exp9/Introduction.html?domain=Computer%20Science&lab=Problem%20Solving%20Lab
+
+
+2] Basic Engineering Mechanics and Srength of Material Lab 
+
+EERC1 --> http://eerc01-iiith.vlabs.ac.in/exp1/Introduction.html?domain=Civil%20Engineering&lab=Basic%20Engineering%20Mechanics%20&%20Strength%20of%20Materials%20Lab
+
+
+3] Circular Dichroism virtual Lab
+
+CDS_2 --> http://cds-iiith.vlabs.ac.in/List%20ofExperiments.html?domain=%20Chemical%20Sciences
+
+
+4] Structural Analysis Lab
+
+BSA_1 --> http://bsa-iiith.vlabs.ac.in/List%20of%20experiments.html?domain=Civil%20Engineering
+
+
+
+Mahantesh@DESKTOP-C5FCVI1 MINGW64 ~ (master)
+$ mkdir virtual-lab
+
+Mahantesh@DESKTOP-C5FCVI1 MINGW64 ~ (master)
+$ cd virtual-lab
+
+Mahantesh@DESKTOP-C5FCVI1 MINGW64 ~/virtual-lab (master)
+$ git clone https://github.com/mahantesh9284343/problem-solving-iiith.git
+Cloning into 'problem-solving-iiith'...
+remote: Enumerating objects: 7606, done.
+remote: Total 7606 (delta 0), reused 0 (delta 0), pack-reused 7606
+Receiving objects: 100% (7606/7606), 8.13 MiB | 79.00 KiB/s, done.
+Resolving deltas: 100% (6313/6313), done.
+Updating files: 100% (3190/3190), done.
+warning: the following paths have collided (e.g. case-sensitive paths
+on a case-insensitive filesystem) and only one from the same
+colliding group is in the working tree:
+
+  'src/lab/exp1/Objective.html'
+  'src/lab/exp1/objective.html'
+  'src/lab/exp1/Theory.html'
+  'src/lab/exp1/theory.html'
+  'src/lab/exp10/Objective.html'
+  'src/lab/exp10/objective.html'
+  'src/lab/exp10/Theory.html'
+  'src/lab/exp10/theory.html'
+  'src/lab/exp2/Hints2/judgeCode.c'
+  'src/lab/exp2/Hints2/judgecode.c'
+  'src/lab/exp2/Objective.html'
+  'src/lab/exp2/objective.html'
+  'src/lab/exp2/Problem2/judgeCode.out'
+  'src/lab/exp2/Problem2/judgecode.out'
+  'src/lab/exp2/Theory.html'
+  'src/lab/exp2/theory.html'
+  'src/lab/exp3/Objective.html'
+  'src/lab/exp3/objective.html'
+  'src/lab/exp3/Theory.html'
+  'src/lab/exp3/theory.html'
+  'src/lab/exp4/Objective.html'
+  'src/lab/exp4/objective.html'
+  'src/lab/exp4/Theory.html'
+  'src/lab/exp4/theory.html'
+  'src/lab/exp5/Objective.html'
+  'src/lab/exp5/objective.html'
+  'src/lab/exp5/Theory.html'
+  'src/lab/exp5/theory.html'
+  'src/lab/exp6/Objective.html'
+  'src/lab/exp6/objective.html'
+  'src/lab/exp6/Theory.html'
+  'src/lab/exp6/theory.html'
+  'src/lab/exp7/Objective.html'
+  'src/lab/exp7/objective.html'
+  'src/lab/exp7/Problem2/judgeCode.c'
+  'src/lab/exp7/Problem2/judgecode.c'
+  'src/lab/exp7/Theory.html'
+  'src/lab/exp7/theory.html'
+  'src/lab/exp8/Objective.html'
+  'src/lab/exp8/objective.html'
+  'src/lab/exp8/Theory.html'
+  'src/lab/exp8/theory.html'
+  'src/lab/exp9/Objective.html'
+  'src/lab/exp9/objective.html'
+  'src/lab/exp9/Theory.html'
+  'src/lab/exp9/theory.html'
+
+Mahantesh@DESKTOP-C5FCVI1 MINGW64 ~/virtual-lab (master)
+$ ls
+problem-solving-iiith/
+
+Mahantesh@DESKTOP-C5FCVI1 MINGW64 ~/virtual-lab (master)
+$ git config --global user.email "mahantesh9284343696@gmail.com"
+
+Mahantesh@DESKTOP-C5FCVI1 MINGW64 ~/virtual-lab (master)
+$ git config --global user.name "mahantesh9284343"
+
+Mahantesh@DESKTOP-C5FCVI1 MINGW64 ~/virtual-lab (master)
+$ ls -la
+total 20
+drwxr-xr-x 1 Mahantesh 197121 0 Jun 25 21:13 ./
+drwxr-xr-x 1 Mahantesh 197121 0 Jun 25 21:16 ../
+drwxr-xr-x 1 Mahantesh 197121 0 Jun 25 21:15 problem-solving-iiith/
+
+Mahantesh@DESKTOP-C5FCVI1 MINGW64 ~/virtual-lab (master)
+$ cd virtual-lab
+bash: cd: virtual-lab: No such file or directory
+
+Mahantesh@DESKTOP-C5FCVI1 MINGW64 ~/virtual-lab (master)
+$ cd problem-solving-iiith/
+
+Mahantesh@DESKTOP-C5FCVI1 MINGW64 ~/virtual-lab/problem-solving-iiith (master)
+$ ls -la
+total 86
+drwxr-xr-x 1 Mahantesh 197121     0 Jun 25 21:15  ./
+drwxr-xr-x 1 Mahantesh 197121     0 Jun 25 21:13  ../
+drwxr-xr-x 1 Mahantesh 197121     0 Jun 25 21:15  .git/
+-rw-r--r-- 1 Mahantesh 197121    70 Jun 25 21:15  .gitignore
+-rw-r--r-- 1 Mahantesh 197121   921 Jun 25 21:15  Dockerfile
+-rw-r--r-- 1 Mahantesh 197121  4356 Jun 25 21:15 'Documentation on QA Process.org'
+drwxr-xr-x 1 Mahantesh 197121     0 Jun 25 21:15  impact-analysis/
+-rw-r--r-- 1 Mahantesh 197121 39099 Jun 25 21:15  license.org
+-rw-r--r-- 1 Mahantesh 197121     0 Jun 25 21:15  pro.py
+-rw-r--r-- 1 Mahantesh 197121  2715 Jun 25 21:15  README.txt
+-rw-r--r-- 1 Mahantesh 197121 12346 Jun 25 21:15  requirements.org
+drwxr-xr-x 1 Mahantesh 197121     0 Jun 25 21:15  scripts/
+drwxr-xr-x 1 Mahantesh 197121     0 Jun 25 21:15  src/
+drwxr-xr-x 1 Mahantesh 197121     0 Jun 25 21:15  test-cases/
+-rw-r--r-- 1 Mahantesh 197121   130 Jun 25 21:15  testreport.org
+
+Mahantesh@DESKTOP-C5FCVI1 MINGW64 ~/vi
+
+  

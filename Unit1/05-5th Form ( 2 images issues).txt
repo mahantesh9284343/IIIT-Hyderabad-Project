@@ -1,0 +1,7 @@
+1] Hydraulics and Fluid Mechanics
+
+EERC1 --> http://eerc03-iiith.vlabs.ac.in/exp1/Manual.html?domain=Civil%20Engineering&lab=Fluid%20Mechanics%20Lab
+
+2] Soil Mechanics Lab
+
+SMFE10_1 --> http://smfe-iiith.vlabs.ac.in/exp10/Manual.html?domain=Civil%20Engineering&lab=Soil%20Mechanics%20Lab
